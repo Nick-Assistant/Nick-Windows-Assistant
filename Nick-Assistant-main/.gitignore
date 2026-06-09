@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Build artifacts
+build/
+dist/
+*.spec
+*.exe
+installer/*.exe
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+screenshots/*.png
+notes.txt
+*.log
+config.json
+
+# Vosk model (download separately)
+model/am/
+model/conf/
+model/graph/
+model/ivector/
+
+# PyInstaller
+hook-vosk.py
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

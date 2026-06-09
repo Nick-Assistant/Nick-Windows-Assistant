@@ -1,0 +1,16 @@
+{
+    "poseDataPath": "posediff_lazuli_to_template.json",
+    "fieldDataPath": "deformation_lazuli_to_template.npz",
+    "sourceBlendShapeSettings": [],
+    "targetBlendShapeSettings": [
+        {
+            "name": "Breasts_flat",
+            "value": 0.6000000238418579
+        }
+    ],
+    "blendShapeFields": [],
+    "baseAvatarDataPath": "avatar_data_template.json",
+    "clothingAvatarDataPath": "avatar_data_lazuli.json",
+    "clothingBlendShapeSettings": [],
+    "clothingBlendShapeSettingsInv": []
+}
